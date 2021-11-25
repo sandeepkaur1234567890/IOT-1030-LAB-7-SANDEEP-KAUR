@@ -1,0 +1,18 @@
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-LAB-7-SANDEEP-KAUR\IOT 1030 LAB 7 SANDEEP KAUR\bin\Debug\net5.0\IOT 1030 LAB 7 SANDEEP KAUR.exe
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-LAB-7-SANDEEP-KAUR\IOT 1030 LAB 7 SANDEEP KAUR\bin\Debug\net5.0\IOT 1030 LAB 7 SANDEEP KAUR.deps.json
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-LAB-7-SANDEEP-KAUR\IOT 1030 LAB 7 SANDEEP KAUR\bin\Debug\net5.0\IOT 1030 LAB 7 SANDEEP KAUR.runtimeconfig.json
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-LAB-7-SANDEEP-KAUR\IOT 1030 LAB 7 SANDEEP KAUR\bin\Debug\net5.0\IOT 1030 LAB 7 SANDEEP KAUR.runtimeconfig.dev.json
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-LAB-7-SANDEEP-KAUR\IOT 1030 LAB 7 SANDEEP KAUR\bin\Debug\net5.0\IOT 1030 LAB 7 SANDEEP KAUR.dll
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-LAB-7-SANDEEP-KAUR\IOT 1030 LAB 7 SANDEEP KAUR\bin\Debug\net5.0\ref\IOT 1030 LAB 7 SANDEEP KAUR.dll
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-LAB-7-SANDEEP-KAUR\IOT 1030 LAB 7 SANDEEP KAUR\bin\Debug\net5.0\IOT 1030 LAB 7 SANDEEP KAUR.pdb
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-LAB-7-SANDEEP-KAUR\IOT 1030 LAB 7 SANDEEP KAUR\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-LAB-7-SANDEEP-KAUR\IOT 1030 LAB 7 SANDEEP KAUR\obj\Debug\net5.0\IOT 1030 LAB 7 SANDEEP KAUR.csprojAssemblyReference.cache
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-LAB-7-SANDEEP-KAUR\IOT 1030 LAB 7 SANDEEP KAUR\obj\Debug\net5.0\IOT 1030 LAB 7 SANDEEP KAUR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-LAB-7-SANDEEP-KAUR\IOT 1030 LAB 7 SANDEEP KAUR\obj\Debug\net5.0\IOT 1030 LAB 7 SANDEEP KAUR.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-LAB-7-SANDEEP-KAUR\IOT 1030 LAB 7 SANDEEP KAUR\obj\Debug\net5.0\IOT 1030 LAB 7 SANDEEP KAUR.AssemblyInfo.cs
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-LAB-7-SANDEEP-KAUR\IOT 1030 LAB 7 SANDEEP KAUR\obj\Debug\net5.0\IOT 1030 LAB 7 SANDEEP KAUR.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-LAB-7-SANDEEP-KAUR\IOT 1030 LAB 7 SANDEEP KAUR\obj\Debug\net5.0\IOT 1030 LAB 7 SANDEEP KAUR.csproj.CopyComplete
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-LAB-7-SANDEEP-KAUR\IOT 1030 LAB 7 SANDEEP KAUR\obj\Debug\net5.0\IOT 1030 LAB 7 SANDEEP KAUR.dll
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-LAB-7-SANDEEP-KAUR\IOT 1030 LAB 7 SANDEEP KAUR\obj\Debug\net5.0\ref\IOT 1030 LAB 7 SANDEEP KAUR.dll
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-LAB-7-SANDEEP-KAUR\IOT 1030 LAB 7 SANDEEP KAUR\obj\Debug\net5.0\IOT 1030 LAB 7 SANDEEP KAUR.pdb
+C:\Users\User\Documents\Cambrian\IOT1026\Repositories\IOT-1030-LAB-7-SANDEEP-KAUR\IOT 1030 LAB 7 SANDEEP KAUR\obj\Debug\net5.0\IOT 1030 LAB 7 SANDEEP KAUR.genruntimeconfig.cache
